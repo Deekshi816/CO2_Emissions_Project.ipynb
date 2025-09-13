@@ -5,38 +5,37 @@ This project focuses on predicting CO2 emissions using machine learning techniqu
 
 Files Included
 
-CO2_Emissions_Project.ipynb – Jupyter Notebook with:
+1.  CO2_Emissions_Project.ipynb – Jupyter Notebook with:
 
-Data loading and exploration
+2.  Data loading and exploration
 
-Data preprocessing and cleaning
+3.  Data preprocessing and cleaning
 
-Model building and evaluation
+4.  Model building and evaluation
 
 Visualizations of predictions and results
 
-CO2_Emissions_Presentation.pptx – PowerPoint presentation using the shared template:
+1.  CO2_Emissions_Presentation.pptx – PowerPoint presentation using the shared template:
 
-Introduction and problem statement
+2.  Introduction and problem statement
 
 Approach and methodology
 
-Model performance and evaluation
+1.  Model performance and evaluation
 
-Conclusion and key insights
+2.  Conclusion and key insights
 
-GitLink included in the Solution Slide
+3.  GitLink included in the Solution Slide
 
 Requirements
+1.  Python 3.x
 
-Python 3.x
+2.  Jupyter Notebook
 
-Jupyter Notebook
-
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+3.  Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 How to Run
 
-Open the .ipynb file in Jupyter Notebook.
+1. Open the .ipynb file in Jupyter Notebook.
 
-Run all cells sequentially to reproduce the results and visualizations.
+2. Run all cells sequentially to reproduce the results and visualizations.
